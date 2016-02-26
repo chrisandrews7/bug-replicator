@@ -1,0 +1,19 @@
+{
+  "name": "bug-replicator",
+  "version": "0.0.1",
+  "description": "Using webdriverio to replicate specific scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chrisandrews7/bug-replicator.git"
+  },
+  "author": "Chris Andrews",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "webdriverio": "^4.0.3"
+  }
+}
