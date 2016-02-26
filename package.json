@@ -1,7 +1,7 @@
 {
   "name": "bug-replicator",
   "version": "0.0.1",
-  "description": "Using webdriverio to replicate specific scenarios",
+  "description": "Quick and simple bug automation replicator using webdriver",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
