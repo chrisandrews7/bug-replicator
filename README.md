@@ -4,11 +4,11 @@ Quick and simple bug automation replicator using webdriver
 
 ## Setup
 
-### Dependencies
+#### Dependencies
 
  `npm install`
 
-### Drivers
+#### Drivers
 
 All browser drivers can be downloaded and installed at [http://www.seleniumhq.org/download/](http://www.seleniumhq.org/download/)
 
